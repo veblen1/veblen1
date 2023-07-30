@@ -43,7 +43,7 @@
 
 ### Tools & Collaboration
 
-- eclipse, VS Code, IntelliJ
+- eclipse, VS Code, IntelliJ, Android Studio
 - Git, Gitlab
 - Jira
 
