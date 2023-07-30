@@ -4,7 +4,7 @@
 
 # 💁🏻 About Me
 
-## Introduction
+### Introduction
 
 - 안녕하세요! 개발 시작 1년차 개발자 박해종입니다.
 - 사람들이 사용하는 것을 만들기 위해 개발을 시작하고, 배우고 있습니다. 
@@ -12,7 +12,7 @@
 - Clean Code와 사용자의 편의성에 대한 고민을 생활화합니다.
 - 같이 성장할 수 있는 환경을 지향합니다.
 
-## Contact & Channel
+### Contact & Channel
 
 - **Email** **|** **qkrgowhd123@gmail.com**
 
@@ -21,19 +21,19 @@
 
 # ⛏️ Skills
 
-## Backend
+### Backend
 
 - Java, Node.js, Kotlin
 - Spring Boot, Spring MVC
 - JPA
 
-## DevOps
+### DevOps
 
 - MySQL, ~~Redis~~
 - ~~Jenkins~~
 - Docker
 
-## Frontend
+### Frontend
 
 - HTML5, CSS3(SCSS), JS(ES6)
 - React
@@ -41,7 +41,7 @@
 - Vue.js
 - Flutter
 
-## Tools & Collaboration
+### Tools & Collaboration
 
 - eclipse, VS Code, IntelliJ
 - Git, Gitlab
@@ -84,7 +84,7 @@ https://github.com/veblen1/SSAFY/tree/main/SSAFY_2se_project
 
 # 📄 Education
 
-## 삼성 청년 SW 아카데미 9기 (SSAFY)
+### 삼성 청년 SW 아카데미 9기 (SSAFY)
 2023.01.04 ~ (진행중)
 
 https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
@@ -100,7 +100,7 @@ https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 
 # 🏅 Certificate
 
-## SQLD
+### SQLD
 
 - 2023.07.07 취득
 
