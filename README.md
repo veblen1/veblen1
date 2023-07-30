@@ -51,11 +51,7 @@
 
 # 💻 Team Experience & Projects
 
-<br/><br/>
-
-# 🚴‍♂️ Personal Experience & Projects
-
-## AtoZ
+### A to Z
 https://github.com/veblen1/SSAFY/tree/main/SSAFY_1se_project
  - 운동 + 커뮤니티 + SNS를 합한 운동 커뮤니티 웹 애플리케이션
     - 프로젝트 인원 : 팀장 박해종, 노윤식 (2인)
@@ -66,16 +62,19 @@ https://github.com/veblen1/SSAFY/tree/main/SSAFY_1se_project
  - 배포 전까지의 웹 애플리케이션 제작
 <br/><br/><br/>
 
-## I DEV U
+### I DEV U (진행중)
 https://github.com/veblen1/SSAFY/tree/main/SSAFY_2se_project
  - 개발자를 위한 메타버스 커뮤니티 사이트
     - 프로젝트 인원 : 백엔드 2인 + 프론트엔드 3인 (5인)
-    - 프로젝트 역할 : 프론트엔드 / Phaser를 이용한 메타버스 게임 제작 , Openvidu 화상채팅 연결
+    - 프로젝트 역할 : 프론트엔드 / Phaser를 이용한 메타버스 게임 제작 , Openvidu 화상채팅 연결, React 기본설계
     - 개발기간 : 23.07.10 ~ 23.08.17(6주)
  - Java, Spring, MySQL, React, node.js
  - Openvidu, Phaser
- - 배포 전까지의 웹 애플리케이션 제작
+ - 기획부터 서버 배포까지 제작
 
+<br/><br/>
+
+# 🚴‍♂️ Personal Experience & Projects
 
 <br/><br/>
 
