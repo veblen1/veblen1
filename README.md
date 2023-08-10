@@ -69,7 +69,7 @@ https://github.com/veblen1/SSAFY/tree/main/SSAFY_2se_project
     - 프로젝트 역할 : 프론트엔드 / Phaser를 이용한 메타버스 게임 제작 , Openvidu 화상채팅 연결, React 기본설계
     - 개발기간 : 23.07.10 ~ 23.08.17(6주)
  - Java, Spring, MySQL, React, node.js
- - Openvidu, Phaser
+ - Openvidu, Phaser, WebRTC(P2P)
  - 기획부터 서버 배포까지 제작
 
 <br/><br/>
@@ -106,4 +106,4 @@ https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 
 <br/>
 
-~~리눅스 마스터 2급~~
+~~리눅스 마스터 2급 1차통과 2차 09.09 발표 10.06~~
