@@ -51,7 +51,7 @@
 
 # 💻 Team Experience & Projects
 
-### A to Z
+### 🏃A to Z
 [https://github.com/veblen1/SSAFY/tree/main/SSAFY_1se_project](https://github.com/veblen1/ssafy-public/tree/main/1%ED%95%99%EA%B8%B0%20%EA%B4%80%ED%86%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
  - 운동 + 커뮤니티 + SNS를 합한 운동 커뮤니티 웹 애플리케이션
     - 프로젝트 인원 : 팀장 박해종, 노윤식 (2인)
@@ -62,7 +62,7 @@
  - 배포 전까지의 웹 애플리케이션 제작
 <br/><br/><br/>
 
-### I DEV U (https://i9b206.p.ssafy.io/)
+### 🎮I DEV U (https://i9b206.p.ssafy.io/)
 [https://github.com/veblen1/SSAFY/tree/main/SSAFY_2se_project](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EA%B3%B5%ED%86%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
  - 개발자를 위한 메타버스 커뮤니티 사이트
     - 프로젝트 인원 : 백엔드 2인 + 프론트엔드 3인 (5인)
@@ -92,7 +92,7 @@ https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 
 - 실무 기반 자기주도형 프로젝트를 통한 풀스택 개발자 교육 과정
     - SW 개발자 풀스택 교육 5개월 : 비전공 Java반
-    - 공통 프로젝트 7주 : 웹기술(WebRTC) (진행중)
+    - 공통 프로젝트 7주 : 웹기술(WebRTC)
     - 특화 프로젝트 7주 : (예정)
     - 자율 프로젝트 7주 : (예정)
 
