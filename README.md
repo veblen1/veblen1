@@ -29,9 +29,9 @@
 
 ### DevOps
 
-- MySQL, ~~Redis~~
+- MySQL, MyBatis,~~Redis~~
 - ~~Jenkins~~
-- Docker
+- ~~Docker~~
 
 ### Frontend
 
