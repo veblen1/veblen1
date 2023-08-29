@@ -23,7 +23,7 @@
 
 ### Backend
 
-- Java, Node.js, Kotlin
+- Java, Node.js
 - Spring Boot, Spring MVC
 - JPA
 
@@ -35,10 +35,11 @@
 
 ### Frontend
 
-- HTML5, CSS3(SCSS), JS(ES6)
+- HTML5, CSS3(SCSS), JS(ES6), Kotlin
+- Typescript, Phaser
 - React
-- Typescript, ~~Redux(React-redux)~~
 - Vue.js
+- Android , Jetpack Compose, coroutine, retrofit2, MVVM
 - Flutter
 
 ### Tools & Collaboration
@@ -71,6 +72,9 @@
  - Java, Spring, MySQL, React, node.js
  - Openvidu, Phaser, WebRTC, Stomp
  - 기획부터 서버 배포까지 제작
+<br/><br/><br/>
+
+### 진행중
 
 <br/><br/>
 
@@ -93,7 +97,7 @@ https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 - 실무 기반 자기주도형 프로젝트를 통한 풀스택 개발자 교육 과정
     - SW 개발자 풀스택 교육 5개월 : 비전공 Java반
     - 공통 프로젝트 7주 : 웹기술(WebRTC)
-    - 특화 프로젝트 7주 : (예정)
+    - 특화 프로젝트 7주 : 핀테크
     - 자율 프로젝트 7주 : (예정)
 
 <br/><br/>
