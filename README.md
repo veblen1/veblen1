@@ -16,7 +16,7 @@
 
 - **Email** **|** **qkrgowhd123@gmail.com**
 
-- **Portfolio** **|** [**veblen.kr**](veblen.kr)
+- **Portfolio** **|** [**veblen.kr**](veblen.kr) (제작중)
 
 - **Github** **|** [**https://github.com/veblen1**](https://github.com/veblen1)
 <br/><br/><br/>
