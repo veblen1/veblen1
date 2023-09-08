@@ -72,13 +72,20 @@
     - 프로젝트 역할 : 프론트엔드 / Phaser를 이용한 메타버스 게임 제작 , Openvidu 화상채팅 연결, React 기본설계
     - 개발기간 : 23.07.10 ~ 23.08.18(6주)
  - Java, Spring, MySQL, React, node.js
- - Openvidu, Phaser, WebRTC, Stomp
+ - Openvidu, Phaser, Stomp
  - 기획부터 서버 배포까지 제작
 <br/><br/><br/>
 
-### 진행중
+### 🎁CONCELLER (진행중)
+- 기프티콘을 경매,물물교환 애플리케이션
+    - 프로젝트 인원 : 프론트 2인 + 백엔드 3인 + Ai 1인 (6인)
+    - 프로젝트 역할 : 프론트엔드 / Android Native 앱 제작
+    - 개발기간 : 23.08.28 ~ 23.10.05(6주)
+- Kotlin, Spring, MySQL, Android Native,
+- FE : Compose(23.03), Retrofit2, Hilt, Coroutine, Flow, Coil
+- 기획부터 구글스토어 배포까지 제작
 
-<br/><br/>
+<br/><br/><br/>
 
 # 🚴‍♂️ Personal Experience & Projects
 
