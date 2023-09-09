@@ -41,7 +41,7 @@
 - Typescript, Phaser
 - React
 - Vue.js
-- Android , Jetpack Compose, coroutine, retrofit2, MVVM
+- Android , Jetpack Compose, coroutine, retrofit2, Hilt, MVVM
 - Flutter
 
 ### Tools & Collaboration
