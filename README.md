@@ -117,6 +117,4 @@ https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 
 - 2023.07.07 취득
 
-<br/>
-
-~~리눅스 마스터 2급 1차통과 2차 09.09 발표 10.06~~
+<br/><br/>
