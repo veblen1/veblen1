@@ -16,7 +16,7 @@
 
 - **Email** **|** **qkrgowhd123@gmail.com**
 
-- **Portfolio** **|** [**veblen.kr**](veblen.kr) (제작중)
+- **Portfolio** **|** [**veblen.kr**]([veblen.kr](https://veblen.kr/)) (제작중)
 
 - **Github** **|** [**https://github.com/veblen1**](https://github.com/veblen1)
 <br/><br/><br/>
@@ -31,7 +31,7 @@
 
 ### DevOps
 
-- MySQL, MyBatis,~~Redis~~
+- MySQL, MyBatis
 - ~~Jenkins~~
 - ~~Docker~~
 
@@ -41,7 +41,7 @@
 - Typescript, Phaser
 - React
 - Vue.js
-- Android , Jetpack Compose, coroutine, retrofit2, Hilt, MVVM
+- Android , Jetpack Compose, coroutine, retrofit2, Hilt, Coil, MVVM
 - Flutter
 
 ### Tools & Collaboration
@@ -57,7 +57,7 @@
 ### 🏃A to Z
 [https://github.com/veblen1/SSAFY/tree/main/SSAFY_1se_project](https://github.com/veblen1/ssafy-public/tree/main/1%ED%95%99%EA%B8%B0%20%EA%B4%80%ED%86%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
  - 운동 + 커뮤니티 + SNS를 합한 운동 커뮤니티 웹 애플리케이션
-    - 프로젝트 인원 : 팀장 박해종, 노윤식 (2인)
+    - 프로젝트 인원 : 풀스택 2인 (2인)
     - 프로젝트 역할 : 풀스택 / DB 설계, MVC 설계, chatGPT 3.5 챗봇, 게시판 CRUD
     - 개발기간 : 23.05.17 ~ 23.05.25(9일)
  - Java, Spring, MySQL, JS, Vue.js
