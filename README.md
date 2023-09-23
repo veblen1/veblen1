@@ -42,7 +42,7 @@
 - React
 - Vue.js
 - Android , Jetpack Compose, coroutine, retrofit2, Hilt, Coil, MVVM
-- Flutter
+- ~~Flutter~~
 
 ### Tools & Collaboration
 
