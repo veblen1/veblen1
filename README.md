@@ -52,7 +52,7 @@
   **Jetpack Compose** 🟥🟥🟥🟥⬜
     - Compose 내의 상태 관리 및 데이터 플로우를 이해하고 구현 가능
     - Composable의 재사용 및 조합을 통한 유연한 UI 디자인 경험
-    - 데이터 시각화(그래프 등) 및 여러 라이브러리 사용 경험
+    - 데이터 시각화(그래프 등),위젯 및 여러 라이브러리 사용 경험
     - MVVM 아키텍처 패턴에 익숙하며, Repository 사용 경험
 
   **Hilt** (Dependency Injection) 🟥🟥🟥⬜⬜
