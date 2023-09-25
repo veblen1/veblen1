@@ -45,16 +45,16 @@
 - ~~Flutter~~
 
 
-**Vue.JS, React**   🟥🟥🟥⬜⬜
+   **Vue.JS, React**   🟥🟥🟥⬜⬜
 
-- Life Cycle을 이해하고, Vue-router 를 활용하여 소규모 프로젝트 진행 가능
-- 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
+ - Life Cycle을 이해하고, Vue-router 를 활용하여 소규모 프로젝트 진행 가능
+ - 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
 
-**Jetpack Compose** 🟥🟥🟥🟥⬜
-- Compose 내의 상태 관리 및 데이터 플로우를 이해하고 구현 가능
-- Composable의 재사용 및 조합을 통한 유연한 UI 디자인 경험있음
-- 데이터 시각화(그래프 등) 및 여러 라이브러리 사용 경험있음
-- MVVM 아키텍처 패턴에 익숙하며, Repository 사용 겸험있음
+   **Jetpack Compose** 🟥🟥🟥🟥⬜
+ - Compose 내의 상태 관리 및 데이터 플로우를 이해하고 구현 가능
+ - Composable의 재사용 및 조합을 통한 유연한 UI 디자인 경험있음
+ - 데이터 시각화(그래프 등) 및 여러 라이브러리 사용 경험있음
+ - MVVM 아키텍처 패턴에 익숙하며, Repository 사용 겸험있음
 
 
 ### Tools & Collaboration
