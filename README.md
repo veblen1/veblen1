@@ -43,8 +43,7 @@
 - Vue.js
 - Android , Jetpack Compose, coroutine, retrofit2, Hilt, Coil, MVVM
 - ~~Flutter~~
-- 
-<br/><br/><br/>
+<br/><br/>
 
    **Vue.JS, React**   🟥🟥🟥⬜⬜
 
@@ -57,7 +56,7 @@
      - 데이터 시각화(그래프 등) 및 여러 라이브러리 사용 경험있음
      - MVVM 아키텍처 패턴에 익숙하며, Repository 사용 겸험있음
 
-<br/><br/><br/>
+<br/><br/>
 
 ### Tools & Collaboration
 
