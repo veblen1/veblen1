@@ -64,7 +64,7 @@
     - Retrofit2의 설정에 익숙하며, API 요청 및 응답 처리 경험
     - Interceptor와 비동기 처리 라이브러리(Coroutine)와의 연동 경험
 
-<br/><br/>
+<br/>
 
 ### Tools & Collaboration
 
