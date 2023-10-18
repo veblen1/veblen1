@@ -94,18 +94,27 @@
     - 프로젝트 역할 : 프론트엔드 / Phaser를 이용한 메타버스 게임 제작 , Openvidu 화상채팅 연결, React 기본설계
     - 개발기간 : 23.07.10 ~ 23.08.18(6주)
  - Java, Spring, MySQL, React, node.js
- - Openvidu, Phaser, Stomp
+ - FE(Web) : Openvidu, Phaser, Stomp
  - 기획부터 서버 배포까지 제작
 <br/><br/><br/>
 
-### 🎁CONSELLER (진행중)
+### 🎁CONSELLER
 [https://github.com/veblen1/SSAFY/tree/main/SSAFY_2se_project](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%ED%8A%B9%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- 기프티콘을 경매,물물교환 애플리케이션
+- 기프티콘을 경매,물물교환 모바일 애플리케이션
     - 프로젝트 인원 : 프론트 2인 + 백엔드 3인 + Ai 1인 (6인)
     - 프로젝트 역할 : 프론트엔드 / Android Native 앱 제작
     - 개발기간 : 23.08.28 ~ 23.10.05(6주)
-- Kotlin, Spring, MySQL, Android Native,
-- FE : Compose(23.03), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM
+- Kotlin, Android Native, Spring, MySQL
+- FE(App) : Compose(23.03), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM
+- 기획부터 구글스토어 배포까지 제작
+
+### 🗺️ 방랑 (진행중)
+- 지도 밝히기, 탐험 모바일 애플리케이션
+    - 프로젝트 인원 : App 1인 + Web 1인 + 백엔드,서버 3인 (5인)
+    - 프로젝트 역할 : App / Android Native 앱 제작
+    - 개발기간 : 23.10.09 ~ 23.11.24(7주)
+- Kotlin, Android Native, React, Spring, MySQL
+- App : Compose(23.03), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM, Room, Glide
 - 기획부터 구글스토어 배포까지 제작
 
 <br/><br/><br/>
@@ -130,11 +139,13 @@ https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
     - SW 개발자 풀스택 교육 5개월 : 비전공 Java반
     - 공통 프로젝트 7주 : 웹기술(WebRTC)
     - 특화 프로젝트 7주 : 핀테크
-    - 자율 프로젝트 7주 : (예정)
+    - 자율 프로젝트 7주 : 모바일+웹
 
 <br/><br/>
 
 # 🏅 Certificate
+
+### SSAFY 특화 프로젝트 3위 (CONSELLER)
 
 ### SQLD
 
