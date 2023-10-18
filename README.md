@@ -87,7 +87,7 @@
  - 배포 전까지의 웹 애플리케이션 제작
 <br/><br/><br/>
 
-### 🎮I DEV U (https://i9b206.p.ssafy.io/)
+### 🎮I DEV U (https://i9b206.p.ssafy.io/) - 서버종료
 [https://github.com/veblen1/SSAFY/tree/main/SSAFY_2se_project](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EA%B3%B5%ED%86%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
  - 개발자를 위한 메타버스 커뮤니티 사이트
     - 프로젝트 인원 : 백엔드 2인 + 프론트엔드 3인 (5인)
@@ -98,7 +98,7 @@
  - 기획부터 서버 배포까지 제작
 <br/><br/><br/>
 
-### 🎁CONSELLER
+### 🎁CONSELLER - 서버종료
 [https://github.com/veblen1/SSAFY/tree/main/SSAFY_2se_project](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%ED%8A%B9%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - 기프티콘을 경매,물물교환 모바일 애플리케이션
     - 프로젝트 인원 : 프론트 2인 + 백엔드 3인 + Ai 1인 (6인)
