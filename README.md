@@ -146,7 +146,7 @@ https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
 
 # 🏅 Certificate
 
-### SSAFY 특화 프로젝트 3위 (CONSELLER)
+### SSAFY - 특화 프로젝트 3위 (CONSELLER)
 
 ### SQLD
 
