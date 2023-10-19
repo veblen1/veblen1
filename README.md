@@ -105,7 +105,7 @@
     - 프로젝트 역할 : 프론트엔드 / Android Native 앱 제작
     - 개발기간 : 23.08.28 ~ 23.10.05(6주)
 - Kotlin, Android Native, Spring, MySQL
-- FE(App) : Compose(23.03), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM
+- FE(App) : Compose(bom:23.03 / 1.4~), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM
 - 기획부터 구글스토어 배포까지 제작
 <br/><br/><br/>
 
@@ -115,7 +115,7 @@
     - 프로젝트 역할 : App / Android Native 앱 제작
     - 개발기간 : 23.10.09 ~ 23.11.24(7주)
 - Kotlin, Android Native, React, Spring, MySQL
-- App : Compose(23.03), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM, Room, Glide
+- App : Compose(bom:23.03 / 1.4~), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM, Room, Glide
 - 기획부터 구글스토어 배포까지 제작
 
 <br/><br/><br/>
