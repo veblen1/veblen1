@@ -25,8 +25,8 @@
 
 ### Backend
 
-- Java, Node.js
-- Spring Boot, Spring MVC
+- Java,
+- Spring Boot, Spring MVC,  Node.js
 - JPA
 
 ### DevOps
