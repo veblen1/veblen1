@@ -76,6 +76,17 @@
 
 # 💻 Team Experience & Projects
 
+### 🗺️ 착한지도 (진행전)
+[https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EC%9E%90%EC%9C%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- 지도 밝히기, 탐험 모바일 애플리케이션
+    - 프로젝트 인원 : 1인개발
+    - 개발기간 : 23.11.22 ~ 23.11.24(3일)
+- Kotlin, Swift, KMP
+- App : Compose(bom:23.03 / 1.4~), Hilt, Flow, Coil, Room
+- 기획부터 구글스토어 배포까지 제작
+
+<br/>
+
 ### 🗺️ 방랑
 [https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EC%9E%90%EC%9C%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - 지도 밝히기, 탐험 모바일 애플리케이션
