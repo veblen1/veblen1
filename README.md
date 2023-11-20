@@ -39,8 +39,7 @@
 
 - HTML5, CSS3(SCSS), JS(ES6), Kotlin
 - Typescript, Phaser
-- React
-- Vue.js
+- React, Vue.js
 - Android , Jetpack Compose, MVVM
 - coroutine, retrofit2, Hilt, Coil, Room
 - ~~Flutter~~
