@@ -82,7 +82,7 @@
     - 프로젝트 인원 : 1인개발
     - 개발기간 : 23.11.22 ~ 23.11.24(3일)
 - Kotlin, Swift, KMP
-- App : Compose(bom:23.03 / 1.4~), Hilt, Flow, Coil, Room
+- App : Compose(bom:23.03 / 1.4~), Hilt, Flow, Coil, Room, Glide
 - 기획부터 구글스토어 배포까지 제작
 
 <br/>
