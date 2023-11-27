@@ -148,7 +148,7 @@
 ### 삼성 청년 SW 아카데미 9기 (SSAFY)
 2023.01.04 ~ (진행중)
 
-https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp
+https://www.ssafy.com
 
 
 - 실무 기반 자기주도형 프로젝트를 통한 풀스택 개발자 교육 과정
