@@ -92,7 +92,7 @@
 - 지도 밝히기, 탐험 모바일 애플리케이션
     - 프로젝트 인원 : App 1인 + Web 1인 + 백엔드,서버 2인 (4인)
     - 프로젝트 역할 : App / Android Native 앱 제작
-    - 개발기간 : 23.10.09 ~ 23.11.24(7주)
+    - 개발기간 : 23.10.09 ~ 23.11.17(6주)
 - Kotlin, Android Native, React, Spring, MySQL
 - App : Compose(bom:23.03 / 1.4~), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM, Room
 - 기획부터 구글스토어 배포까지 제작
