@@ -77,7 +77,7 @@
 # 💻 Team Experience & Projects
 
 
-### 🗺️ 방랑
+### 🗺️ 방랑 - 서버종료
 [https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EC%9E%90%EC%9C%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - 지도 밝히기, 탐험 모바일 애플리케이션
     - 프로젝트 인원 : App 1인 + Web 1인 + 백엔드,서버 2인 (4인)
