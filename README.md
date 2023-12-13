@@ -19,6 +19,8 @@
 - **Portfolio** **|** [**veblen.kr**](https://veblen.kr/) (제작중)
 
 - **Github** **|** [**https://github.com/veblen1**](https://github.com/veblen1)
+
+- **Blog** **|** [**https://veblen.tistory.com**](https://veblen.tistory.com) (저장용 개인창고)
 <br/><br/><br/>
 
 # ⛏️ Skills
