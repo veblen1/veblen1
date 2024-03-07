@@ -47,26 +47,6 @@
 - ~~Flutter~~
 <br/><br/>
 
-    **Vue.JS, React**   🟥🟥🟥⬜⬜
-    - Life Cycle을 이해하고, Vue-router 를 활용하여 소규모 프로젝트 진행 가능
-    - 컴포넌트 개념을 이해하고, 재사용을 위한 개발 가능
-
-  **Jetpack Compose** 🟥🟥🟥🟥⬜
-    - Compose 내의 상태 관리 및 데이터 플로우를 이해하고 구현 가능
-    - Composable의 재사용 및 조합을 통한 유연한 UI 디자인 경험
-    - 데이터 시각화(그래프 등),위젯 및 여러 라이브러리 사용 경험
-    - MVVM 아키텍처 패턴에 익숙하며, Repository 사용 경험
-
-  **Hilt** (Dependency Injection) 🟥🟥🟥⬜⬜
-    - Hilt를 사용한 의존성 주입 기본 원칙 및 설정에 익숙
-    - ViewModel, Repository 및 기타 서비스에 대한 Hilt 바인딩 경험
-    - Hilt와 Jetpack Compose의 통합 방법에 대한 이해
-
-  **Retrofit2** (HTTP Client) 🟥🟥🟥⬜⬜
-    - Retrofit2의 설정에 익숙하며, API 요청 및 응답 처리 경험
-    - Interceptor와 비동기 처리 라이브러리(Coroutine)와의 연동 경험
-
-<br/>
 
 ### Tools & Collaboration
 
@@ -146,7 +126,7 @@
 # 📄 Education
 
 ### 삼성 청년 SW 아카데미 9기 (SSAFY)
-2023.01.04 ~ (진행중)
+2023.01.04 ~ 2023.12.31
 
 https://www.ssafy.com
 
