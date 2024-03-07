@@ -21,9 +21,10 @@
 - **Blog** **|** [**https://veblen.tistory.com**](https://veblen.tistory.com) (저장용 개인창고)
   
 - **Portfolio** **|** [**Notion**](https://opaque-lute-422.notion.site/Portfolio-befdefef893e460bb25976f6df4fb2a0?pvs=4)
-<br/><br/><br/>
+- 
 
 ### career
+<br/><br/><br/>
 
 24.02 ~ (ing) 로보라이즌 - 안드로이드 개발
 
