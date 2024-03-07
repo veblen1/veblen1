@@ -6,7 +6,7 @@
 
 ### Introduction
 
-- 안녕하세요! 항상 새로운것을 배우고 싶어하는 개발자 박해종입니다.
+- 안녕하세요! 항상 새로운것을 배우고 싶어하는 1년차 개발자 박해종입니다.
 - 사람들이 유용하게 쓰는것을 만들기 위해 개발을 시작했고, 배우고 있습니다. 
 - 새로운 기술, 새로운 언어를 배우는 것에 관심이 많습니다.
 - Clean Architecture와 사용자의 편의성에 대한 고민을 생활화합니다.
@@ -22,6 +22,10 @@
   
 - **Portfolio** **|** [**Notion**](https://opaque-lute-422.notion.site/Portfolio-befdefef893e460bb25976f6df4fb2a0?pvs=4)
 <br/><br/><br/>
+
+### career
+
+24.02 ~ (ing) 로보라이즌 - 안드로이드 개발
 
 # ⛏️ Skills
 
