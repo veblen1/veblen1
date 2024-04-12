@@ -33,11 +33,18 @@
 
 # ⛏️ Skills
 
+### Mobile
+
+- Android , Jetpack Compose, MVVM
+- coroutine, retrofit2, Hilt, Coil, Room
+- Flutter
+
+
 ### Backend
 
 - Java,
 - Spring Boot, Spring MVC,  Node.js
-- JPA
+- ~~JPA~~
 
 ### DevOps
 
@@ -50,9 +57,7 @@
 - HTML5, CSS3(SCSS), JS(ES6), Kotlin
 - Typescript, Phaser
 - React, Vue.js
-- Android , Jetpack Compose, MVVM
-- coroutine, retrofit2, Hilt, Coil, Room
-- ~~Flutter~~
+
 <br/><br/>
 
 
