@@ -24,7 +24,7 @@
 
 ### career
 
-24.02 ~ (ing) 로보라이즌 - 모바일, 안드로이드 개발
+24.02 ~ (ing) 로보라이즌 - 모바일, 안드로이드, Flutter 개발
 
 <br/><br/><br/>
 
@@ -34,8 +34,8 @@
 ### Mobile
 
 - Android , Jetpack Compose, MVVM
-- coroutine, retrofit2, Hilt, Coil, Room
-- Flutter
+- coroutine, retrofit2, Hilt, Coil, Room, BLE
+- Flutter, provider, sqflite, BLE
 
 
 ### Backend
