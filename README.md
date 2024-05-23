@@ -82,18 +82,6 @@
 
 <br/>
 
-### 🎁CONSELLER - 서버종료
-[https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%ED%8A%B9%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- 기프티콘을 경매,물물교환 모바일 애플리케이션
-    - 프로젝트 인원 : 프론트 2인 + 백엔드 3인 + Ai 1인 (6인)
-    - 프로젝트 역할 : 프론트엔드 / Android Native 앱 제작
-    - 개발기간 : 23.08.28 ~ 23.10.05(6주)
-- Kotlin, Android Native, Spring, MySQL
-- FE(App) : Compose(bom:23.03 / 1.4~), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM
-- 기획부터 구글스토어 배포까지 제작
-
-<br/>
-
 ### 🎮I DEV U (https://i9b206.p.ssafy.io/) - 서버종료
 [https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EA%B3%B5%ED%86%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
  - 개발자를 위한 메타버스 커뮤니티 사이트
@@ -104,28 +92,16 @@
 - FE(Web) : Openvidu, Phaser, Stomp
 - 기획부터 서버 배포까지 제작
 
-<br/>
-
-### 🏃A to Z
-[https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/1%ED%95%99%EA%B8%B0%20%EA%B4%80%ED%86%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
- - 운동 + 커뮤니티 + SNS를 합한 운동 커뮤니티 웹 애플리케이션
-    - 프로젝트 인원 : 풀스택 2인 (2인)
-    - 프로젝트 역할 : 풀스택 / DB 설계, MVC 설계, chatGPT 3.5 챗봇, 게시판 CRUD
-    - 개발기간 : 23.05.17 ~ 23.05.25(9일)
-- Java, Spring, MySQL, JS, Vue.js
-- Youtube API , OPENAI API
-- 배포 전까지의 웹 애플리케이션 제작
 
 <br/>
 
 # 🚴‍♂️ Personal Experience & Projects
 
-### 🗺️ 착한지도 (진행중)
-[https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EC%9E%90%EC%9C%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
-- 가까운 착한가게 업소 바로 볼수있는 모바일 위젯
+### 🗺️ 아리안 (진행중)
+- 
     - 프로젝트 인원 : 1인개발
-    - 개발기간 : 23.11 ~ 23.12 (약 1주일)
-- App : Compose(bom:23.03 / 1.4~), Hilt, Flow, Coil, Room, Glance
+    - 개발기간 : 24.05 ~ 24.08 (약 3개월)
+- App : Flutter
 - 기획부터 구글스토어 배포까지 제작
 
 <br/><br/>
