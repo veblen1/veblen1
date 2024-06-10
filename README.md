@@ -33,14 +33,14 @@
 
 ### Mobile
 
-- Android , Jetpack Compose, MVVM
+- Android , Jetpack Compose, MVVM, Kotlin, Dart
 - coroutine, retrofit2, Hilt, Coil, Room, BLE
-- Flutter, provider, sqflite, BLE
+- Flutter, provider, sqflite, intl, BLE
 
 
 ### Backend
 
-- Java,
+- Java
 - Spring Boot, Spring MVC,  Node.js
 - ~~JPA~~
 
@@ -52,7 +52,7 @@
 
 ### Frontend
 
-- HTML5, CSS3(SCSS), JS(ES6), Kotlin
+- HTML5, CSS3(SCSS), JS(ES6)
 - Typescript, Phaser
 - React, Vue.js
 
