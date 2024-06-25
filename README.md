@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=veblen1's%20github&fontSize=50)
-
 # 계속 학습하는 개발자, 박해종입니다. 👋
 
 # 💁🏻 About Me
