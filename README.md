@@ -70,6 +70,19 @@
 # 💻 Team Experience & Projects
 
 
+### 🤖 GroupWizard(로보라이즌)
+https://play.google.com/store/apps/details?id=com.pinpong.groupwizard
+- G 큐브 연결 및 그룹 번호 변경 앱
+    - 프로젝트 인원 : App 1인
+    - 프로젝트 역할 : App / Flutter 앱 제작
+    - 개발기간 : 24.05 ~ 24.06
+- Flutter, Dart, Provider, BLE, intl
+- 기존앱 개선 및 Native -> Flutter 전환 , 플레이스토어 출시, 앱스토어 출시(진행중)
+
+
+<br/>
+
+
 ### 🗺️ 방랑 - 서버종료
 [https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EC%9E%90%EC%9C%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - 지도 밝히기, 탐험 모바일 애플리케이션
@@ -78,9 +91,10 @@
     - 개발기간 : 23.10.09 ~ 23.11.17(6주)
 - Kotlin, Android Native, React, Spring, MySQL
 - App : Compose(bom:23.03 / 1.4~), Retrofit2, Hilt, Coroutine, Flow, Coil, MVVM, Room
-- 기획부터 구글스토어 배포까지 제작
+
 
 <br/>
+
 
 ### 🎮I DEV U (https://i9b206.p.ssafy.io/) - 서버종료
 [https://github.com/veblen1/ssafy-public](https://github.com/veblen1/ssafy-public/tree/main/2%ED%95%99%EA%B8%B0%20%EA%B3%B5%ED%86%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
