@@ -112,7 +112,7 @@ https://play.google.com/store/apps/details?id=com.pinpong.groupwizard
 ### 🗺️ 아리안 (진행중)
 - 
     - 프로젝트 인원 : 1인개발
-    - 개발기간 : 24.06 ~ 24.08 (약 3개월)
+    - 개발기간 : 24.07 ~ 24.09 (약 3개월)
 - App : Flutter
 - 기획부터 구글스토어 배포까지 제작
 
