@@ -76,7 +76,7 @@ https://play.google.com/store/apps/details?id=com.pinpong.groupwizard
     - 개발기간 : 24.05 ~ 24.06
 - Flutter, Dart, Provider, BLE, intl
 - 기존앱 개선 및 Native -> Flutter 전환 , 플레이스토어 출시, 앱스토어 출시(진행중)
-- 개선사항 등 업데이트 버전 출시
+- 개선사항 등 업데이트 버전 출시(24.08~)
 
 
 <br/>
