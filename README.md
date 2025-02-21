@@ -14,8 +14,6 @@
 - **Email** **|** **qkrgowhd123@gmail.com**
 
 - **Github** **|** [**https://github.com/veblen1**](https://github.com/veblen1)
-  
-- **Portfolio** **|** [**Notion**](https://opaque-lute-422.notion.site/Portfolio-befdefef893e460bb25976f6df4fb2a0?pvs=4)
 
   
 
